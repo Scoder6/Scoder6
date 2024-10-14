@@ -58,7 +58,7 @@
 1. **[Andaman Attols](https://github.com/Scoder6/Andaman-Attols-Website)** - A full-stack application using **HTML**, **CSS**, **JS**, **Node.js**
 2. **[Porfolio](https://github.com/Scoder6/Portfolio)** - A project focused on performance optimization and UI design using **Next.js**, **TailwindCSS**, **Typescript** and **Node**.
 3. **[Tic-Tac-Toe](https://github.com/Scoder6/Tic-Tac-Toe_Game)** - A full-stack application using **HTML**, **CSS** and **JS**
-4. **[Futurewise IT solutions](https://github.com/subhrangshu/futurewise_frontend)** - A frontend Website using **NextJS**, **TypeScript** and **Node**
+4.Private
 
 #### Mobile Apps
 1. **[Cabs24](https://play.google.com/store/apps/details?id=com.cabs24.user&hl=en)** - Built with **Angular**, **Ionic**, **Apache Cassandra**, **SpringBoot**, **Kotlin**, **TypeScript**, etc  and integrated with Firebase for real-time functionality.
