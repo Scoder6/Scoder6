@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there! 👋 I'm [Your Name], Full Stack Developer 💻
+  Hey there! 👋 I'm Saptash Chaubey, Full Stack Developer 💻
 </h1>
 
 <p align="center">
@@ -16,10 +16,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on [Your Latest Project](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning **Node.js, React, and TypeScript**
-- 💬 Ask me about **Full Stack Development**, **App Development**, **DevOps**, or **UI/UX Design**
-- 📫 Reach me at: **your.email@example.com**
+- 🔭 I’m currently working on [Delivery App](https://github.com/Scoder6/App-Delivery)
+- 🌱 I’m currently learning **React Native, and TypeScript**
+- 💬 Ask me about **Full Stack Development**, **App Development**, **Software Development**, or **UI/UX Design**
+- 📫 Reach me at: **matulchaubey669@gmail.com**
 - ⚡ Fun fact: I love designing **animated UI components** and exploring **Machine Learning**!
 
 ---
@@ -40,49 +40,28 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/saptash-chaubey-711a3322a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:matuchaubey669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
 ### 📱 Apps & Projects
 #### Web Apps
-1. **[Awesome Project](https://github.com/yourusername/awesome-project)** - A full-stack application using **React**, **Node.js**, and **MongoDB**.
-2. **[Another Project](https://github.com/yourusername/another-project)** - A project focused on performance optimization and UI design using **Next.js** and **TailwindCSS**.
+1. **[Andaman Attols](https://github.com/Scoder6/Andaman-Attols-Website)** - A full-stack application using **HTML**, **CSS**, **JS**, **Node.js**
+2. **[Porfolio](https://github.com/Scoder6/Portfolio)** - A project focused on performance optimization and UI design using **Next.js**, **TailwindCSS**, **Typescript** and **Node**.
+3. **[Tic-Tac-Toe](https://github.com/Scoder6/Tic-Tac-Toe_Game)** - A full-stack application using **HTML**, **CSS** and **JS**
+4. **[Futurewise IT solutions](https://github.com/subhrangshu/futurewise_frontend)** - A frontend Website using **NextJS**, **TypeScript** and **Node**
 
 #### Mobile Apps
-1. **[Cool Mobile App](https://github.com/yourusername/cool-mobile-app)** - Built with **React Native** and integrated with Firebase for real-time functionality.
-2. **[Another App](https://github.com/yourusername/another-app)** - A cross-platform mobile app using **Flutter**.
+1. **[Cabs24](https://play.google.com/store/apps/details?id=com.cabs24.user&hl=en)** - Built with **Angular**, **Ionic**, **Apache Cassandra**, **SpringBoot**, **Kotlin**, **TypeScript**, etc  and integrated with Firebase for real-time functionality.
 
 ---
 
 ### 🏆 GitHub Trophies & Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="GitHub Trophies" width="600px" />
-</p>
-
----
-
-### ✍️ Blog Posts & Articles
-- [How to Build a Full Stack App in 2024](https://yourblog.com/full-stack-app-2024)
-- [Understanding State Management in React](https://yourblog.com/state-management-react)
-- [Mastering Node.js & Express for Backend Development](https://yourblog.com/mastering-nodejs)
-
----
-
-<h2 align="center">📈 GitHub Activity</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical" alt="GitHub Contribution Graph" width="600px">
-</p>
-
----
-
-<h2 align="center">🚀 Fun Animations</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300px" alt="Cool Animation">
 </p>
 
 ---
