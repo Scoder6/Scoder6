@@ -4,12 +4,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge" alt="Full Stack Developer Badge">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/yourusername/yourrepository?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/followers/Scoder6?label=Follow&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Scoder6/yourrepository?style=social" alt="GitHub Stars">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Scoder6&show_icons=true&theme=radical" alt="GitHub Stats" width="500px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" width="500px">
 </p>
 
@@ -34,16 +34,22 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/saptash-chaubey-711a3322a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" /></a>
+  <a href="geeksforgeeks.org/user/matulchae54m/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:matuchaubey669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
+
 
 ---
 
