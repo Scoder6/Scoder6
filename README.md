@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hey there! 👋 I'm Saptash Chaubey, Full Stack Developer 💻
+  Hey there! 👋 I'm Saptash Chaubey – Software Engineer ⚙️ | Full Stack Developer 💻 | UI/UX Enthusiast 🎨
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge" alt="Full Stack Developer Badge">
+  <img src="https://img.shields.io/badge/Software-Engineer-blue?style=for-the-badge" alt="Software Engineer Badge">
   <img src="https://img.shields.io/github/followers/Scoder6?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Scoder6/yourrepository?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/Scoder6?style=social" alt="GitHub Stars">
 </p>
 
 <p align="center">
@@ -16,15 +16,17 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on [Delivery App](https://github.com/Scoder6/App-Delivery)
-- 🌱 I’m currently learning **React Native, and TypeScript**
-- 💬 Ask me about **Full Stack Development**, **App Development**, **Software Development**, or **UI/UX Design**
-- 📫 Reach me at: **matulchaubey669@gmail.com**
-- ⚡ Fun fact: I love designing **animated UI components** and exploring **Machine Learning**!
+- 🌱 Currently diving deeper into **React Native**, **TypeScript**, and **Advanced UI Animations**
+- 💬 Ask me about: **Full Stack Development**, **Mobile Apps**, **UI/UX Design**, and **Software Architecture**
+- 📫 Reach out: **matulchaubey669@gmail.com**
+- ⚡ Fun fact: I love creating animated, clean UIs and exploring Machine Learning concepts!
+
+🔗 **Explore my portfolio** → [My portfolio](https://portfolio-mine-fawn.vercel.app/) – built with **Next.js**, **TailwindCSS**, **TypeScript**, and **shadcn/ui**
 
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -40,45 +42,48 @@
   <img src="https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" />
 </p>
 
+---
+
+### 📱 Projects & Apps
+
+#### 🖥️ Web Applications
+1. **[Andaman Attols](https://github.com/Scoder6/Andaman-Attols-Website)** – A **freelance travel website project** I developed for a client. Built using **HTML**, **CSS**, **JavaScript**, and **Node.js** to showcase beautiful destinations and booking features.
+2. **[Portfolio](https://github.com/Scoder6/Portfolio)** – Crafted with **Next.js**, **TailwindCSS**, **TypeScript**, and **shadcn/ui**
+3. **[Tic-Tac-Toe Game](https://github.com/Scoder6/Tic-Tac-Toe_Game)** – A playful UI using **HTML**, **CSS**, and **JavaScript**
+4. **Private Projects** – Working on some behind-the-scenes tools 🚧
+
+#### 📲 Mobile Apps
+1. **[Cabs24](https://play.google.com/store/apps/details?id=com.cabs24.user&hl=en)** – Real-time cab booking app built with **Angular**, **Ionic**, **SpringBoot**, **Firebase**, **Kotlin**, and **TypeScript**
 
 ---
 
-### 🌐 Connect With Me
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Scoder6&theme=radical" alt="GitHub Trophies" width="600px" />
+</p>
+
+---
+
+### 🌐 Let’s Connect!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/saptash-chaubey-711a3322a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="geeksforgeeks.org/user/matulchae54m/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.geeksforgeeks.org/user/matulchae54m/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:matuchaubey669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-
 ---
 
-### 📱 Apps & Projects
-#### Web Apps
-1. **[Andaman Attols](https://github.com/Scoder6/Andaman-Attols-Website)** - A full-stack application using **HTML**, **CSS**, **JS**, **Node.js**
-2. **[Porfolio](https://github.com/Scoder6/Portfolio)** - A project focused on performance optimization and UI design using **Next.js**, **TailwindCSS**, **Typescript** and **Node**.
-3. **[Tic-Tac-Toe](https://github.com/Scoder6/Tic-Tac-Toe_Game)** - A full-stack application using **HTML**, **CSS** and **JS**
-4. Private
+### 🤝 Open to Collaborations!
 
-#### Mobile Apps
-1. **[Cabs24](https://play.google.com/store/apps/details?id=com.cabs24.user&hl=en)** - Built with **Angular**, **Ionic**, **Apache Cassandra**, **SpringBoot**, **Kotlin**, **TypeScript**, etc  and integrated with Firebase for real-time functionality.
+I'm always up for collaborating on:
+- 🚀 Open-source contributions
+- 📱 Web & mobile app development
+- 🎨 UI/UX design and consulting
+- 🧠 Cool tech ideas and side projects
 
----
-
-### 🏆 GitHub Trophies & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="GitHub Trophies" width="600px" />
-</p>
+Let’s connect and build something amazing!  
+👉 **[Visit My Portfolio](https://portfolio-mine-fawn.vercel.app/)**
 
 ---
-
-### 🌟 Let's Collaborate!
-Feel free to reach out if you'd like to collaborate on:
-- Open-source projects
-- Full Stack web development
-- Mobile app development
-- UI/UX design or consulting
-- Anything else in the tech space!
-
-Let's connect and build something awesome together! 🚀
-
