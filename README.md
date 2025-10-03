@@ -1,89 +1,98 @@
-<h1 align="center">
-  Hey there! 👋 I'm Saptash Chaubey – Software Engineer ⚙️ | Full Stack Developer 💻 | UI/UX Enthusiast 🎨
+<h1 align="center"> 
+  👋 Hi, I'm <span style="color:#4ade80">Saptash Chaubey</span>  
+  <br/>
+  Software Engineer ⚙️ | Full Stack Developer 💻 | UI/UX Enthusiast 🎨
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software-Engineer-blue?style=for-the-badge" alt="Software Engineer Badge">
-  <img src="https://img.shields.io/github/followers/Scoder6?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Scoder6?style=social" alt="GitHub Stars">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scoder6&show_icons=true&theme=radical" alt="GitHub Stats" width="500px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scoder6&theme=radical" alt="GitHub Streak Stats" width="500px">
+  <img src="https://img.shields.io/badge/Software_Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-green?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Scoder6?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/Scoder6?style=social" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently diving deeper into **React Native**, **TypeScript**, and **Advanced UI Animations**
-- 💬 Ask me about: **Full Stack Development**, **Mobile Apps**, **UI/UX Design**, and **Software Architecture**
-- 📫 Reach out: **matulchaubey669@gmail.com**
-- ⚡ Fun fact: I love creating animated, clean UIs and exploring Machine Learning concepts!
+- 📌 Final Year B.Tech ECE @ NIT Durgapur (2026)  
+- 💼 Experience: **2x Full Stack Internships** + **1x Software Engineering Internship** + **Freelance Projects**  
+- 🔭 Passionate about **scalable web apps**, **mobile-first solutions**, and **intuitive UI/UX**  
+- 🌱 Currently diving deeper into **React Native**, **React**, **Node.js**, **TypeScript**, and **Next.js (App Router)**  
+- 📫 Reach me: **matulchaubey669@gmail.com**  
 
-🔗 **Explore my portfolio** → [My portfolio](https://portfolio-mine-fawn.vercel.app/) – built with **Next.js**, **TailwindCSS**, **TypeScript**, and **shadcn/ui**
+🔗 **Portfolio** → [Visit here](https://portfolio-mine-fawn.vercel.app/)  
 
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,cassandra,mysql,postgres,graphql,java,spring,kotlin,git,figma" />
 </p>
 
 ---
 
-### 📱 Projects & Apps
+### 📂 Featured Projects
 
 #### 🖥️ Web Applications
-1. **[Andaman Attols](https://github.com/Scoder6/Andaman-Attols-Website)** – A **freelance travel website project** I developed for a client. Built using **HTML**, **CSS**, **JavaScript**, and **Node.js** to showcase beautiful destinations and booking features.
-2. **[Portfolio](https://github.com/Scoder6/Portfolio)** – Crafted with **Next.js**, **TailwindCSS**, **TypeScript**, and **shadcn/ui**
-3. **[Tic-Tac-Toe Game](https://github.com/Scoder6/Tic-Tac-Toe_Game)** – A playful UI using **HTML**, **CSS**, and **JavaScript**
-4. **Private Projects** – Working on some behind-the-scenes tools 🚧
+- **[TeachnTeach](#)** *(Client Project, NDA)*  
+  📚 Full-stack platform for managing **teachers, students, and tuition scheduling**  
+  🔹 Built with **React Native, Node.js, Express, MongoDB, Razorpay (payments integration)**  
+  🔹 Features: **authentication, scheduling, role-based dashboards, payments**  
+  ⚡ *Large-scale freelance project delivered to client*
 
-#### 📲 Mobile Apps
-1. **[Cabs24](https://play.google.com/store/apps/details?id=com.cabs24.user&hl=en)** – Real-time cab booking app built with **Angular**, **Ionic**, **SpringBoot**, **Firebase**, **Kotlin**, and **TypeScript**
+- **[Company Website](#)** *(Software Engineering Internship, NDA)*  
+  🏢 Corporate website built with **Next.js, shadcn/ui, Framer Motion, Node.js**  
+  🔹 Designed and developed modern, responsive UI with smooth animations  
+  🔹 Integrated APIs and deployed a production-ready MVP for client showcase
+
+- **[Andaman Attols](https://github.com/Scoder6/Andaman-Attols-Website)**  
+  🌴 Travel website for a client | Built with **HTML, CSS, JS, Node.js**
+
+- **[Portfolio](https://github.com/Scoder6/Portfolio)**  
+  ⚡ Personal site built using **Next.js, Tailwind, TypeScript, shadcn/ui**
 
 ---
 
-### 🏆 GitHub Achievements
+#### 📲 Mobile Applications
+- **Cab Booking App (Uber-like)** *(Internship + Client Project, NDA)*  
+  🚖 Real-time ride booking platform with **driver & user apps**  
+  🔹 Stack: **Angular, Ionic, React Native, Spring Boot (Java), Firebase, Kotlin, MySQL**  
+  🔹 Features: **real-time booking, ride tracking, fare calculation, notifications, payment integration**  
+  ⚡ *Production-ready system developed during internships & client engagement*
 
+- **[Tic Tac Toe Game](https://github.com/Scoder6/Tic-Tac-Toe_Game)**  
+  🎮 Fun interactive game with **HTML, CSS, JS**
+
+---
+
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Scoder6&theme=radical" alt="GitHub Trophies" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Scoder6&show_icons=true&theme=radical&hide_rank=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Scoder6&theme=radical" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scoder6&layout=compact&theme=radical&langs_count=8" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Scoder6&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%" />
+</p>
+
+
 ---
 
-### 🌐 Let’s Connect!
-
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/saptash-chaubey-711a3322a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.geeksforgeeks.org/user/matulchae54m/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:matuchaubey669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:matulchaubey669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
-### 🤝 Open to Collaborations!
+### 🤝 Open to Collaborations
+- 🚀 Open-source projects  
+- 📱 Scalable web & mobile apps  
+- 🎨 UI/UX design consulting  
+- 💡 Innovative side projects  
 
-I'm always up for collaborating on:
-- 🚀 Open-source contributions
-- 📱 Web & mobile app development
-- 🎨 UI/UX design and consulting
-- 🧠 Cool tech ideas and side projects
-
-Let’s connect and build something amazing!  
-👉 **[Visit My Portfolio](https://portfolio-mine-fawn.vercel.app/)**
-
----
+✨ Let’s connect and build something impactful!  
