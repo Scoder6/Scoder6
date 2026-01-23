@@ -3,6 +3,8 @@
   <br/>
   Software Engineer ⚙️ | Full Stack Developer 💻 | UI/UX Enthusiast 🎨
 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lord-vinayak&label=Profile%20views&color=0e75b6&style=flat" alt="lord-vinayak" /> </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-blue?style=for-the-badge" />
