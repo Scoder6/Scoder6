@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-- 📌 Final Year B.Tech ECE @ NIT Durgapur (2026)  
+- 📌 Final Year B.Tech ECE @ NIT Durgapur  
 - 💼 Experience: **2x Full Stack Internships** + **1x Software Engineering Internship** + **Freelance Projects**  
 - 🔭 Passionate about **scalable web apps**, **mobile-first solutions**, and **intuitive UI/UX**  
 - 🌱 Currently diving deeper into **React Native**, **React**, **Node.js**, **TypeScript**, and **Next.js (App Router)**  
